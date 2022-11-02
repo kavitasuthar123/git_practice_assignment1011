@@ -6,9 +6,9 @@ function checkprime(num){
         }
     }
     if(factor==i){
-        console.log("prime number");
+        console.log("given number is a prime number");
     }else {
-        console.log("not a prime number")
+        console.log("given number is not a prime number")
     }
 }
 
